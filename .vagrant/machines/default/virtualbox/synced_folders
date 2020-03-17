@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/rgurney/Engineering/new-curriculum/devops/mutable-pipelines/provisioning/code/starter-code","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/app_folder":{"guestpath":"/app_folder","hostpath":"/Users/jameshovell/code/opscode/vagrant102/starter-code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jameshovell/code/opscode/vagrant102/starter-code","disabled":false,"__vagrantfile":true}}}
